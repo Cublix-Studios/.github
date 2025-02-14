@@ -1,8 +1,11 @@
 # Oh, hello there 👋
 
 Cublix Studios is *not really an organization*, but more of a group of let's say.. not the best developers 😅
-If you want to get involved in our little team or group you can email us at **brawlmod@proton.me**
+
+If you want to get involved in our little team or group you can email us at **cublix@proton.me**
+
 Oh, you are wondering where the link to our [Roblox development group](https://www.roblox.com/communities/14867533/Cublix-Studios#!/about) is?
+
 We don't like people with no humor! We want our team to be always full of "happy" coders!!
 
 <!--
